@@ -1,0 +1,624 @@
+{
+  "title": "Daily X narrative digest — 2026-10-26",
+  "date": "2026-10-26",
+  "timezone": "Australia/Brisbane",
+  "updated": "2026-10-26T11:15:05+10:00",
+  "brand_title": "Grok Bot X Virality Score",
+  "brand_handle": "@nicholasgee",
+  "hits": [
+    {
+      "name": "levelsio",
+      "display_name": "levelsio",
+      "handle": "@levelsio",
+      "views": 155778,
+      "url": "https://x.com/levelsio/status/2113985122944831829",
+      "hook": "Quote of @apekshik's fighter-jet sim with three words, 'This is sick'. A big account co-signing a viral indie build.",
+      "highlight": true,
+      "draft_en": "No draft today: lower fit for Nick's niche. See the pattern brief."
+    },
+    {
+      "name": "levelsio",
+      "display_name": "levelsio",
+      "handle": "@levelsio",
+      "views": 139431,
+      "url": "https://x.com/levelsio/status/2114109044126290026",
+      "hook": "Outraged one-liner about US Skyr ingredients plus a photo. Food rage gets replies from everyone, not just builders.",
+      "highlight": true,
+      "draft_en": "No draft today: lower fit for Nick's niche. See the pattern brief."
+    },
+    {
+      "name": "levelsio",
+      "display_name": "levelsio",
+      "handle": "@levelsio",
+      "views": 134408,
+      "url": "https://x.com/levelsio/status/2114317753985188201",
+      "hook": "'Yesterday I spent all day typing this into Claude Code' + the exact prompt + his setup + a new ritual ('security week'). 1,589 bookmarks: people saved it as a checklist.",
+      "highlight": true,
+      "draft_en": "levelsio wants a \"security week\" every month. After nearly 30 years in disaster recovery, I'd add a restore day to it.\n\nAn audit shows you what's exposed. A restore test shows whether you can come back when something gets through anyway.\n\nThe prompt I'd type into Claude Code next:\n\n\"Find every backup this server depends on. Walk me through restoring it to a clean box and tell me what breaks.\"\n\nA backup you've never restored is a guess.",
+      "video_tip": "30-45s screen recording: type the restore prompt into Claude Code on a throwaway test VPS, let it run, and cut on the first thing that breaks. Face cam in the corner, no client systems on screen."
+    },
+    {
+      "name": "levelsio",
+      "display_name": "levelsio",
+      "handle": "@levelsio",
+      "views": 84064,
+      "url": "https://x.com/levelsio/status/2114316321311650149",
+      "hook": "Step-by-step popcorn method with 3 photos. Practical, numbered, off-topic lifestyle content.",
+      "highlight": true,
+      "draft_en": "No draft today: lower fit for Nick's niche. See the pattern brief."
+    },
+    {
+      "name": "levelsio",
+      "display_name": "levelsio",
+      "handle": "@levelsio",
+      "views": 81070,
+      "url": "https://x.com/levelsio/status/2113799716471296052",
+      "hook": "'Okay now it's Brotli's turn' quoting the OpenAI-found Brotli flaw. Treats Black October as a running series.",
+      "highlight": true,
+      "draft_en": "No draft today: lower fit for Nick's niche. See the pattern brief."
+    },
+    {
+      "name": "levelsio",
+      "display_name": "levelsio",
+      "handle": "@levelsio",
+      "views": 80712,
+      "url": "https://x.com/levelsio/status/2114017364396400821",
+      "hook": "One-line quote reaction, 'So nice to see everyone getting ripped'. Fitness culture and his own persona.",
+      "highlight": true,
+      "draft_en": "No draft today: lower fit for Nick's niche. See the pattern brief."
+    },
+    {
+      "name": "levelsio",
+      "display_name": "levelsio",
+      "handle": "@levelsio",
+      "views": 79017,
+      "url": "https://x.com/levelsio/status/2114429379527004590",
+      "hook": "'Speaking of the devil, now it's Tailscale's turn' + a link to check your setup. Same series format, with an action. 558 bookmarks.",
+      "highlight": true,
+      "draft_en": "Black October so far: PHP2Shell, the Brotli bug in Node, now Tailscale SSH. Every few days it's someone else's turn.\n\nPatching is half the job. The other half is the 3am question: if this box is gone tomorrow, how long until you're back up?\n\nFour things I'd check before Friday:\n\n1. Is there a copy of your data outside the account that could get popped?\n2. When did you last restore it, start to finish?\n3. Could you rotate every API key and env var from one list?\n4. Who gets the call, and do they know it's them?\n\nNearly 30 years in DR and the lesson hasn't changed. The outage hurts. A slow, messy recovery hurts more.",
+      "video_tip": "40-60s talking head at your desk: put each of the four questions on screen as you say it, then end on 'which one would you fail?' to pull replies."
+    },
+    {
+      "name": "levelsio",
+      "display_name": "levelsio",
+      "handle": "@levelsio",
+      "views": 59136,
+      "url": "https://x.com/levelsio/status/2114027494001045643",
+      "hook": "Native video flying into Lisbon with timestamps for the good bits. Travel footage plus a fact.",
+      "highlight": true,
+      "draft_en": "No draft today: lower fit for Nick's niche. See the pattern brief."
+    },
+    {
+      "name": "levelsio",
+      "display_name": "levelsio",
+      "handle": "@levelsio",
+      "views": 59028,
+      "url": "https://x.com/levelsio/status/2114431852517724181",
+      "hook": "'I'm doing the same with my house' quoting the Pentagon 90-day self-sufficiency story. Resilience and off-grid thinking.",
+      "highlight": true,
+      "draft_en": "No draft today: lower fit for Nick's niche. See the pattern brief."
+    },
+    {
+      "name": "levelsio",
+      "display_name": "levelsio",
+      "handle": "@levelsio",
+      "views": 12908,
+      "url": "https://x.com/levelsio/status/2114510984689639894",
+      "hook": "Hot political take on the Brazil election, about an hour old when scraped.",
+      "highlight": true,
+      "draft_en": "No draft today: lower fit for Nick's niche. See the pattern brief."
+    },
+    {
+      "name": "Arvid Kahl",
+      "display_name": "Arvid Kahl",
+      "handle": "@arvidkahl",
+      "views": 22501,
+      "url": "https://x.com/arvidkahl/status/2113817559149461513",
+      "hook": "Long-form pricing lesson: $50+ floor as customer segmentation, backed by his own FeedbackPanda and Podscan numbers. 95 replies.",
+      "highlight": true,
+      "draft_en": "No draft today: lower fit for Nick's niche. See the pattern brief."
+    },
+    {
+      "name": "Arvid Kahl",
+      "display_name": "Arvid Kahl",
+      "handle": "@arvidkahl",
+      "views": 8280,
+      "url": "https://x.com/arvidkahl/status/2114109472721539252",
+      "hook": "Quote of a 50:50 poll on AI, calling the split 'baffling'. Picks a side on a live debate.",
+      "highlight": false,
+      "draft_en": "No draft today: lower fit for Nick's niche. See the pattern brief."
+    },
+    {
+      "name": "Arvid Kahl",
+      "display_name": "Arvid Kahl",
+      "handle": "@arvidkahl",
+      "views": 7959,
+      "url": "https://x.com/arvidkahl/status/2114109159582945622",
+      "hook": "'Who is building this?' with an Input / AI: Magic / Output spec for AI podcast editing. 59 replies from builders pitching.",
+      "highlight": false,
+      "draft_en": "No draft today: lower fit for Nick's niche. See the pattern brief."
+    },
+    {
+      "name": "Arvid Kahl",
+      "display_name": "Arvid Kahl",
+      "handle": "@arvidkahl",
+      "views": 7452,
+      "url": "https://x.com/arvidkahl/status/2113814097988882806",
+      "hook": "'This week has been a great year.' A dry one-liner quote on the news cycle.",
+      "highlight": false,
+      "draft_en": "No draft today: lower fit for Nick's niche. See the pattern brief."
+    },
+    {
+      "name": "Tony Dinh",
+      "display_name": "Tony Dinh",
+      "handle": "@tdinh_me",
+      "views": 14687,
+      "url": "https://x.com/tdinh_me/status/2113920538821509161",
+      "hook": "'First time in my life I understand how neural networks work' + demo video of a 6K-parameter CNN he trained by asking Opus to teach him.",
+      "highlight": true,
+      "draft_en": "No draft today: lower fit for Nick's niche. See the pattern brief."
+    },
+    {
+      "name": "Tony Dinh",
+      "display_name": "Tony Dinh",
+      "handle": "@tdinh_me",
+      "views": 10148,
+      "url": "https://x.com/tdinh_me/status/2113902860543127842",
+      "hook": "'Running on CONSUMER GPU??? This is crazy' quote reaction. Caps-lock surprise at a local-AI demo.",
+      "highlight": true,
+      "draft_en": "No draft today: lower fit for Nick's niche. See the pattern brief."
+    },
+    {
+      "name": "Tony Dinh",
+      "display_name": "Tony Dinh",
+      "handle": "@tdinh_me",
+      "views": 6790,
+      "url": "https://x.com/tdinh_me/status/2113809418592948462",
+      "hook": "'Interesting 🤔' quote with an image. Minimal reaction riding someone else's post.",
+      "highlight": false,
+      "draft_en": "No draft today: lower fit for Nick's niche. See the pattern brief."
+    },
+    {
+      "name": "Daniel Vassallo",
+      "display_name": "Daniel Vassallo",
+      "handle": "@dvassallo",
+      "views": 8395,
+      "url": "https://x.com/dvassallo/status/2114028942642561463",
+      "hook": "Photo meeting Mika Hakkinen at COTA plus a 90s childhood memory. Nostalgia and a famous face.",
+      "highlight": false,
+      "draft_en": "No draft today: lower fit for Nick's niche. See the pattern brief."
+    },
+    {
+      "name": "GREG ISENBERG",
+      "display_name": "GREG ISENBERG",
+      "handle": "@gregisenberg",
+      "views": 34103,
+      "url": "https://x.com/gregisenberg/status/2114427800828399649",
+      "hook": "'\"Sent from AI agent\" is the new \"Sent from iPhone\"'. One-line 'X is the new Y' analogy. 160 replies on 346 likes.",
+      "highlight": true,
+      "draft_en": "\"We had backups\" is the new \"it worked on my machine\".",
+      "video_tip": "6-8s deadpan selfie clip: read the line once to camera, then cut to a terminal showing an empty backup folder. Caption the line in large text for sound-off scrollers."
+    }
+  ],
+  "outsiders": [
+    {
+      "name": "Fox News Politics",
+      "display_name": "Fox News Politics",
+      "handle": "@foxnewspolitics",
+      "views": 2724786,
+      "url": "https://x.com/foxnewspolitics/status/2114296536922529937",
+      "text": "Pentagon preparing every major US base to run 90 days with no outside power, fuel or supply chains.",
+      "hook": "Pentagon preparing every major US base to run 90 days with no outside power, fuel or supply chains."
+    },
+    {
+      "name": "unusual_whales",
+      "display_name": "unusual_whales",
+      "handle": "@unusual_whales",
+      "views": 1047506,
+      "url": "https://x.com/unusual_whales/status/2113770927599272075",
+      "text": "OpenAI says it found a critical Brotli flaw in Node.js, Bun and Envoy: takeover via malicious compressed data.",
+      "hook": "OpenAI says it found a critical Brotli flaw in Node.js, Bun and Envoy: takeover via malicious compressed data."
+    },
+    {
+      "name": "Cyber Security News",
+      "display_name": "Cyber Security News",
+      "handle": "@The_Cyber_News",
+      "views": 511498,
+      "url": "https://x.com/The_Cyber_News/status/2114361192080973940",
+      "text": "Tailscale SSH flaws could let an attacker move from one device to root on other servers. 11 findings.",
+      "hook": "Tailscale SSH flaws could let an attacker move from one device to root on other servers. 11 findings."
+    },
+    {
+      "name": "Apekshik",
+      "display_name": "Apekshik",
+      "handle": "@apekshik",
+      "views": 304175,
+      "url": "https://x.com/apekshik/status/2113798671569748397",
+      "text": "'You can dogfight in my realistic fighter jet simulator now.' Indie build, video demo.",
+      "hook": "'You can dogfight in my realistic fighter jet simulator now.' Indie build, video demo."
+    },
+    {
+      "name": "Dominik",
+      "display_name": "Dominik",
+      "handle": "@sobedominik",
+      "views": 128222,
+      "url": "https://x.com/sobedominik/status/2114176258758111347",
+      "text": "Founder's two worst weeks: ER visit and an AI-driven cyber attack on one of his companies, mid-holiday.",
+      "hook": "Founder's two worst weeks: ER visit and an AI-driven cyber attack on one of his companies, mid-holiday."
+    },
+    {
+      "name": "aronello",
+      "display_name": "aronello",
+      "handle": "@aronello01",
+      "views": 103328,
+      "url": "https://x.com/aronello01/status/2114296157421858842",
+      "text": "Poll: if you read every diff Claude Code writes, is it still vibe coding? a/b/c format.",
+      "hook": "Poll: if you read every diff Claude Code writes, is it still vibe coding? a/b/c format."
+    },
+    {
+      "name": "Roundtable Space",
+      "display_name": "Roundtable Space",
+      "handle": "@RoundtableSpace",
+      "views": 43977,
+      "url": "https://x.com/RoundtableSpace/status/2113922193629532283",
+      "text": "VibeWise plugin: the AI asks for your approach before it writes code, so you learn while vibe coding.",
+      "hook": "VibeWise plugin: the AI asks for your approach before it writes code, so you learn while vibe coding."
+    },
+    {
+      "name": "Ozak",
+      "display_name": "Ozak",
+      "handle": "@OzakAGI",
+      "views": 11937,
+      "url": "https://x.com/OzakAGI/status/2113952951358402716",
+      "text": "Podcast episode: 'Black October: Is the Internet Going Into Lockdown?' AI agents breached 100+ companies.",
+      "hook": "Podcast episode: 'Black October: Is the Internet Going Into Lockdown?' AI agents breached 100+ companies."
+    },
+    {
+      "name": "Rajath",
+      "display_name": "Rajath",
+      "handle": "@buildwithrajath",
+      "views": 5082,
+      "url": "https://x.com/buildwithrajath/status/2114080367514968212",
+      "text": "Model-race take: Opus 5.5 and Kimi K3.1 Pro pressure OpenAI to ship GPT-6 Bel early.",
+      "hook": "Model-race take: Opus 5.5 and Kimi K3.1 Pro pressure OpenAI to ship GPT-6 Bel early."
+    },
+    {
+      "name": "Mason",
+      "display_name": "Mason",
+      "handle": "@Mason33xbt",
+      "views": 4630,
+      "url": "https://x.com/Mason33xbt/status/2114030406341386384",
+      "text": "Trading bot 20% cheaper and 30% faster in a week by running two model providers at once.",
+      "hook": "Trading bot 20% cheaper and 30% faster in a week by running two model providers at once."
+    },
+    {
+      "name": "James",
+      "display_name": "James",
+      "handle": "@jamescoder12",
+      "views": 3981,
+      "url": "https://x.com/jamescoder12/status/2114004323340607795",
+      "text": "Moonshot's Kimi K3.1 Pro beats GPT-6 Astra on Terminal-Bench 4.0 coding benchmark.",
+      "hook": "Moonshot's Kimi K3.1 Pro beats GPT-6 Astra on Terminal-Bench 4.0 coding benchmark."
+    },
+    {
+      "name": "Another Coding",
+      "display_name": "Another Coding",
+      "handle": "@AnotherCodingX",
+      "views": 3312,
+      "url": "https://x.com/AnotherCodingX/status/2113948269885997144",
+      "text": "Daily AI roundup: Claude Mythos 5 safety test incident, OpenAI trains offline, Kimi leads open weights.",
+      "hook": "Daily AI roundup: Claude Mythos 5 safety test incident, OpenAI trains offline, Kimi leads open weights."
+    },
+    {
+      "name": "Suraj Sharma",
+      "display_name": "Suraj Sharma",
+      "handle": "@suraj_sharma14",
+      "views": 3106,
+      "url": "https://x.com/suraj_sharma14/status/2114401603361145179",
+      "text": "Matt Pocock's 'Skills for Real Engineers': 300K GitHub stars, ~30M installs.",
+      "hook": "Matt Pocock's 'Skills for Real Engineers': 300K GitHub stars, ~30M installs."
+    },
+    {
+      "name": "CDG",
+      "display_name": "CDG",
+      "handle": "@CDGalpha",
+      "views": 1467,
+      "url": "https://x.com/CDGalpha/status/2114360682917601666",
+      "text": "Listicle: top 10 Claude skills to stop getting hacked, with star counts.",
+      "hook": "Listicle: top 10 Claude skills to stop getting hacked, with star counts."
+    },
+    {
+      "name": "Kolin Huang",
+      "display_name": "Kolin Huang",
+      "handle": "@KolinHuang",
+      "views": 937,
+      "url": "https://x.com/KolinHuang/status/2114446316445237690",
+      "text": "'Everything that happened in AI last week (Oct 18-25)' weekly recap thread.",
+      "hook": "'Everything that happened in AI last week (Oct 18-25)' weekly recap thread."
+    },
+    {
+      "name": "Wes Winder",
+      "display_name": "Wes Winder",
+      "handle": "@weswinder",
+      "views": 1067,
+      "url": "https://x.com/weswinder/status/2114499092218773521",
+      "text": "Junior vs staff engineer, same Claude Code prompt, different label. Two-line contrast joke.",
+      "hook": "Junior vs staff engineer, same Claude Code prompt, different label. Two-line contrast joke."
+    },
+    {
+      "name": "UnveilWithKunal",
+      "display_name": "UnveilWithKunal",
+      "handle": "@UnveilWithKunal",
+      "views": 979,
+      "url": "https://x.com/UnveilWithKunal/status/2113898346683531403",
+      "text": "Small-account milestone: 5 to 200 followers since 6 Sep, $0 MRR, 'let's connect if you're a...'.",
+      "hook": "Small-account milestone: 5 to 200 followers since 6 Sep, $0 MRR, 'let's connect if you're a...'."
+    },
+    {
+      "name": "Zed",
+      "display_name": "Zed",
+      "handle": "@zedonchain_",
+      "views": 596,
+      "url": "https://x.com/zedonchain_/status/2114134168456065300",
+      "text": "Black October list: Railway and Zeabur leaked env vars, LiteLLM shipped a poisoned release.",
+      "hook": "Black October list: Railway and Zeabur leaked env vars, LiteLLM shipped a poisoned release."
+    },
+    {
+      "name": "perperp",
+      "display_name": "perperp",
+      "handle": "@perperp_er",
+      "views": 315,
+      "url": "https://x.com/perperp_er/status/2114345317688881425",
+      "text": "Summary of levelsio's Claude Code security audit day. Second-hand rides of the big post.",
+      "hook": "Summary of levelsio's Claude Code security audit day. Second-hand rides of the big post."
+    },
+    {
+      "name": "Vlad Sheikin",
+      "display_name": "Vlad Sheikin",
+      "handle": "@v_sheikin",
+      "views": 208,
+      "url": "https://x.com/v_sheikin/status/2113924103094608050",
+      "text": "'Black October: 8 hacks this week. How many hit you?' Self-scoring checklist with fixes.",
+      "hook": "'Black October: 8 hacks this week. How many hit you?' Self-scoring checklist with fixes."
+    }
+  ],
+  "patterns": [
+    "Claude Code",
+    "security audit",
+    "Black October",
+    "now it's X's turn",
+    "Tailscale",
+    "Brotli",
+    "\"security week\"",
+    "exact prompt in quotes",
+    "Yesterday I spent all day…",
+    "X is the new Y",
+    "Who is building this?",
+    "quote-post + 1 line",
+    "numbered how-to",
+    "pricing floor / segmentation",
+    "learn anything with Opus",
+    "resilience / 90 days off-grid",
+    "native video + timestamps",
+    "bookmark bait: checklists"
+  ],
+  "no_hits": [
+    {
+      "handle": "@thepatwalls",
+      "reason": "No original posts in the last ~48h.",
+      "max_views": 0
+    }
+  ],
+  "narrative_synthesis": "Black October is the meta: AI-found flaws (PHP2Shell, Brotli in Node, Tailscale SSH) land every few days and builders are turning them into a running series and a monthly 'security week'. Around it: Claude Code workflow posts with the exact prompt, model-race takes (Opus 5.5, Kimi K3.1 Pro, GPT-6), and resilience stories like the Pentagon's 90-day bases. Disaster recovery is the gap nobody in the watchlist is filling: lots of 'patch and audit', almost no 'can you restore'.",
+  "virals_window": "last ~48h",
+  "virals_target": 20,
+  "hits_count": 19,
+  "outsiders_count": 20,
+  "operator": {
+    "handle": "@nicholasgee",
+    "name": "Nicholas Gee",
+    "profile_url": "https://x.com/nicholasgee"
+  },
+  "ui": {
+    "default_theme": "night"
+  },
+  "day_roster": [
+    {
+      "handle": "@levelsio",
+      "name": "levelsio",
+      "views": 155778,
+      "total_views": 885552,
+      "hit": true,
+      "is_you": false
+    },
+    {
+      "handle": "@gregisenberg",
+      "name": "GREG ISENBERG",
+      "views": 34103,
+      "total_views": 34103,
+      "hit": true,
+      "is_you": false
+    },
+    {
+      "handle": "@arvidkahl",
+      "name": "Arvid Kahl",
+      "views": 22501,
+      "total_views": 46192,
+      "hit": true,
+      "is_you": false
+    },
+    {
+      "handle": "@tdinh_me",
+      "name": "Tony Dinh",
+      "views": 14687,
+      "total_views": 31625,
+      "hit": true,
+      "is_you": false
+    },
+    {
+      "handle": "@dvassallo",
+      "name": "Daniel Vassallo",
+      "views": 8395,
+      "total_views": 8395,
+      "hit": true,
+      "is_you": false
+    },
+    {
+      "handle": "@nicholasgee",
+      "name": "Nicholas Gee",
+      "views": 3,
+      "total_views": 12,
+      "hit": false,
+      "is_you": true
+    },
+    {
+      "handle": "@thepatwalls",
+      "name": "Pat Walls",
+      "views": 0,
+      "total_views": 0,
+      "hit": false,
+      "is_you": false
+    }
+  ],
+  "you_rank": {
+    "handle": "@nicholasgee",
+    "best_views": 3,
+    "total_views": 12,
+    "rank_among_watchlist": 6,
+    "best_url": "https://x.com/nicholasgee/status/2114179226366779728"
+  },
+  "board_features": {
+    "count_up": true,
+    "live_pulse": true,
+    "theme_toggle": true,
+    "themes": [
+      "night",
+      "day"
+    ],
+    "grok_ambient": true,
+    "week_month_boards": true,
+    "day_roster_best_total": true,
+    "day_compare_chart": true,
+    "week_strip": true,
+    "no_hits_reasons": true,
+    "marker_class": "xvs-dash-2026"
+  },
+  "leaderboards": {
+    "as_of": "2026-10-26",
+    "tracking_start": "2026-10-26",
+    "days_included": [
+      "2026-10-26"
+    ],
+    "month_days_included": [
+      "2026-10-26"
+    ],
+    "week": {
+      "label": "Rolling week · Oct 26–Oct 26",
+      "range": [
+        "2026-10-26",
+        "2026-10-26"
+      ],
+      "entries": [
+        {
+          "handle": "@levelsio",
+          "name": "levelsio",
+          "hits": 10,
+          "days": 1,
+          "views": 885552,
+          "best": 155778,
+          "best_url": "https://x.com/levelsio/status/2113985122944831829"
+        },
+        {
+          "handle": "@arvidkahl",
+          "name": "Arvid Kahl",
+          "hits": 4,
+          "days": 1,
+          "views": 46192,
+          "best": 22501,
+          "best_url": "https://x.com/arvidkahl/status/2113817559149461513"
+        },
+        {
+          "handle": "@gregisenberg",
+          "name": "GREG ISENBERG",
+          "hits": 1,
+          "days": 1,
+          "views": 34103,
+          "best": 34103,
+          "best_url": "https://x.com/gregisenberg/status/2114427800828399649"
+        },
+        {
+          "handle": "@tdinh_me",
+          "name": "Tony Dinh",
+          "hits": 3,
+          "days": 1,
+          "views": 31625,
+          "best": 14687,
+          "best_url": "https://x.com/tdinh_me/status/2113920538821509161"
+        },
+        {
+          "handle": "@dvassallo",
+          "name": "Daniel Vassallo",
+          "hits": 1,
+          "days": 1,
+          "views": 8395,
+          "best": 8395,
+          "best_url": "https://x.com/dvassallo/status/2114028942642561463"
+        }
+      ]
+    },
+    "month": {
+      "label": "October 2026 · from Oct 26",
+      "range": [
+        "2026-10-26",
+        "2026-10-26"
+      ],
+      "entries": [
+        {
+          "handle": "@levelsio",
+          "name": "levelsio",
+          "hits": 10,
+          "days": 1,
+          "views": 885552,
+          "best": 155778,
+          "best_url": "https://x.com/levelsio/status/2113985122944831829"
+        },
+        {
+          "handle": "@arvidkahl",
+          "name": "Arvid Kahl",
+          "hits": 4,
+          "days": 1,
+          "views": 46192,
+          "best": 22501,
+          "best_url": "https://x.com/arvidkahl/status/2113817559149461513"
+        },
+        {
+          "handle": "@gregisenberg",
+          "name": "GREG ISENBERG",
+          "hits": 1,
+          "days": 1,
+          "views": 34103,
+          "best": 34103,
+          "best_url": "https://x.com/gregisenberg/status/2114427800828399649"
+        },
+        {
+          "handle": "@tdinh_me",
+          "name": "Tony Dinh",
+          "hits": 3,
+          "days": 1,
+          "views": 31625,
+          "best": 14687,
+          "best_url": "https://x.com/tdinh_me/status/2113920538821509161"
+        },
+        {
+          "handle": "@dvassallo",
+          "name": "Daniel Vassallo",
+          "hits": 1,
+          "days": 1,
+          "views": 8395,
+          "best": 8395,
+          "best_url": "https://x.com/dvassallo/status/2114028942642561463"
+        }
+      ]
+    }
+  }
+}
