@@ -1,18 +1,18 @@
 {
-  "title": "Daily X narrative digest — 2026-10-26",
-  "date": "2026-10-26",
+  "title": "Daily X narrative digest — 2026-10-27",
+  "date": "2026-10-27",
   "timezone": "Australia/Brisbane",
-  "updated": "2026-10-26T11:15:05+10:00",
+  "updated": "2026-10-27T10:38:11+10:00",
   "brand_title": "Grok Bot X Virality Score",
   "brand_handle": "@nicholasgee",
   "hits": [
     {
-      "name": "levelsio",
-      "display_name": "levelsio",
-      "handle": "@levelsio",
-      "views": 155778,
-      "url": "https://x.com/levelsio/status/2113985122944831829",
-      "hook": "Quote of @apekshik's fighter-jet sim with three words, 'This is sick'. A big account co-signing a viral indie build.",
+      "name": "GREG ISENBERG",
+      "display_name": "GREG ISENBERG",
+      "handle": "@gregisenberg",
+      "views": 696342,
+      "url": "https://x.com/gregisenberg/status/2114711399620333841",
+      "hook": "Numbered quick takeaways on the Anthropic S-1, posted fast after the filing. 2,951 bookmarks and 358 replies.",
       "highlight": true,
       "draft_en": "No draft today: lower fit for Nick's niche. See the pattern brief."
     },
@@ -20,9 +20,9 @@
       "name": "levelsio",
       "display_name": "levelsio",
       "handle": "@levelsio",
-      "views": 139431,
-      "url": "https://x.com/levelsio/status/2114109044126290026",
-      "hook": "Outraged one-liner about US Skyr ingredients plus a photo. Food rage gets replies from everyone, not just builders.",
+      "views": 192397,
+      "url": "https://x.com/levelsio/status/2114792905973838057",
+      "hook": "Contrarian money move: buying $GOOGL while 'Google is down bad', plus a FaceTime story about his dad cancelling ChatGPT.",
       "highlight": true,
       "draft_en": "No draft today: lower fit for Nick's niche. See the pattern brief."
     },
@@ -30,30 +30,19 @@
       "name": "levelsio",
       "display_name": "levelsio",
       "handle": "@levelsio",
-      "views": 134408,
-      "url": "https://x.com/levelsio/status/2114317753985188201",
-      "hook": "'Yesterday I spent all day typing this into Claude Code' + the exact prompt + his setup + a new ritual ('security week'). 1,589 bookmarks: people saved it as a checklist.",
-      "highlight": true,
-      "draft_en": "levelsio wants a \"security week\" every month. After nearly 30 years in disaster recovery, I'd add a restore day to it.\n\nAn audit shows you what's exposed. A restore test shows whether you can come back when something gets through anyway.\n\nThe prompt I'd type into Claude Code next:\n\n\"Find every backup this server depends on. Walk me through restoring it to a clean box and tell me what breaks.\"\n\nA backup you've never restored is a guess.",
-      "video_tip": "30-45s screen recording: type the restore prompt into Claude Code on a throwaway test VPS, let it run, and cut on the first thing that breaks. Face cam in the corner, no client systems on screen."
-    },
-    {
-      "name": "levelsio",
-      "display_name": "levelsio",
-      "handle": "@levelsio",
-      "views": 84064,
-      "url": "https://x.com/levelsio/status/2114316321311650149",
-      "hook": "Step-by-step popcorn method with 3 photos. Practical, numbered, off-topic lifestyle content.",
+      "views": 151782,
+      "url": "https://x.com/levelsio/status/2114700426528575817",
+      "hook": "'I keep saying this but...' economics take: only Big AI and Big Tech win, so own their stock. 837 bookmarks.",
       "highlight": true,
       "draft_en": "No draft today: lower fit for Nick's niche. See the pattern brief."
     },
     {
-      "name": "levelsio",
-      "display_name": "levelsio",
-      "handle": "@levelsio",
-      "views": 81070,
-      "url": "https://x.com/levelsio/status/2113799716471296052",
-      "hook": "'Okay now it's Brotli's turn' quoting the OpenAI-found Brotli flaw. Treats Black October as a running series.",
+      "name": "Daniel Vassallo",
+      "display_name": "Daniel Vassallo",
+      "handle": "@dvassallo",
+      "views": 102966,
+      "url": "https://x.com/dvassallo/status/2114577956362223889",
+      "hook": "Contrast observation: the painter from trade school wants the same life as the doctor, so services are never cheap in America.",
       "highlight": true,
       "draft_en": "No draft today: lower fit for Nick's niche. See the pattern brief."
     },
@@ -61,100 +50,41 @@
       "name": "levelsio",
       "display_name": "levelsio",
       "handle": "@levelsio",
-      "views": 80712,
-      "url": "https://x.com/levelsio/status/2114017364396400821",
-      "hook": "One-line quote reaction, 'So nice to see everyone getting ripped'. Fitness culture and his own persona.",
+      "views": 74541,
+      "url": "https://x.com/levelsio/status/2114705745816006795",
+      "hook": "'Guys literally only want one thing' meme format about ground beef and rice, with a photo.",
       "highlight": true,
       "draft_en": "No draft today: lower fit for Nick's niche. See the pattern brief."
     },
     {
-      "name": "levelsio",
-      "display_name": "levelsio",
-      "handle": "@levelsio",
-      "views": 79017,
-      "url": "https://x.com/levelsio/status/2114429379527004590",
-      "hook": "'Speaking of the devil, now it's Tailscale's turn' + a link to check your setup. Same series format, with an action. 558 bookmarks.",
+      "name": "GREG ISENBERG",
+      "display_name": "GREG ISENBERG",
+      "handle": "@gregisenberg",
+      "views": 54919,
+      "url": "https://x.com/gregisenberg/status/2114788328868544908",
+      "hook": "'Here's how to sell AI to Main Street with no audience and no money, step by step.' 1,134 bookmarks on 527 likes: saved as a playbook.",
       "highlight": true,
-      "draft_en": "Black October so far: PHP2Shell, the Brotli bug in Node, now Tailscale SSH. Every few days it's someone else's turn.\n\nPatching is half the job. The other half is the 3am question: if this box is gone tomorrow, how long until you're back up?\n\nFour things I'd check before Friday:\n\n1. Is there a copy of your data outside the account that could get popped?\n2. When did you last restore it, start to finish?\n3. Could you rotate every API key and env var from one list?\n4. Who gets the call, and do they know it's them?\n\nNearly 30 years in DR and the lesson hasn't changed. The outage hurts. A slow, messy recovery hurts more.",
-      "video_tip": "40-60s talking head at your desk: put each of the four questions on screen as you say it, then end on 'which one would you fail?' to pull replies."
-    },
-    {
-      "name": "levelsio",
-      "display_name": "levelsio",
-      "handle": "@levelsio",
-      "views": 59136,
-      "url": "https://x.com/levelsio/status/2114027494001045643",
-      "hook": "Native video flying into Lisbon with timestamps for the good bits. Travel footage plus a fact.",
-      "highlight": true,
-      "draft_en": "No draft today: lower fit for Nick's niche. See the pattern brief."
-    },
-    {
-      "name": "levelsio",
-      "display_name": "levelsio",
-      "handle": "@levelsio",
-      "views": 59028,
-      "url": "https://x.com/levelsio/status/2114431852517724181",
-      "hook": "'I'm doing the same with my house' quoting the Pentagon 90-day self-sufficiency story. Resilience and off-grid thinking.",
-      "highlight": true,
-      "draft_en": "No draft today: lower fit for Nick's niche. See the pattern brief."
-    },
-    {
-      "name": "levelsio",
-      "display_name": "levelsio",
-      "handle": "@levelsio",
-      "views": 12908,
-      "url": "https://x.com/levelsio/status/2114510984689639894",
-      "hook": "Hot political take on the Brazil election, about an hour old when scraped.",
-      "highlight": true,
-      "draft_en": "No draft today: lower fit for Nick's niche. See the pattern brief."
-    },
-    {
-      "name": "Arvid Kahl",
-      "display_name": "Arvid Kahl",
-      "handle": "@arvidkahl",
-      "views": 22501,
-      "url": "https://x.com/arvidkahl/status/2113817559149461513",
-      "hook": "Long-form pricing lesson: $50+ floor as customer segmentation, backed by his own FeedbackPanda and Podscan numbers. 95 replies.",
-      "highlight": true,
-      "draft_en": "No draft today: lower fit for Nick's niche. See the pattern brief."
-    },
-    {
-      "name": "Arvid Kahl",
-      "display_name": "Arvid Kahl",
-      "handle": "@arvidkahl",
-      "views": 8280,
-      "url": "https://x.com/arvidkahl/status/2114109472721539252",
-      "hook": "Quote of a 50:50 poll on AI, calling the split 'baffling'. Picks a side on a live debate.",
-      "highlight": false,
-      "draft_en": "No draft today: lower fit for Nick's niche. See the pattern brief."
-    },
-    {
-      "name": "Arvid Kahl",
-      "display_name": "Arvid Kahl",
-      "handle": "@arvidkahl",
-      "views": 7959,
-      "url": "https://x.com/arvidkahl/status/2114109159582945622",
-      "hook": "'Who is building this?' with an Input / AI: Magic / Output spec for AI podcast editing. 59 replies from builders pitching.",
-      "highlight": false,
-      "draft_en": "No draft today: lower fit for Nick's niche. See the pattern brief."
-    },
-    {
-      "name": "Arvid Kahl",
-      "display_name": "Arvid Kahl",
-      "handle": "@arvidkahl",
-      "views": 7452,
-      "url": "https://x.com/arvidkahl/status/2113814097988882806",
-      "hook": "'This week has been a great year.' A dry one-liner quote on the news cycle.",
-      "highlight": false,
-      "draft_en": "No draft today: lower fit for Nick's niche. See the pattern brief."
+      "draft_en": "Greg's right that Main Street is the big AI opportunity. The pitch that gets you in the door isn't AI, though. It's \"what happens to your business if this computer dies tonight?\"\n\nAfter nearly 30 years in disaster recovery, here's how I'd open that conversation:\n\n1. Ask where the customer list, the books and the bookings actually live.\n2. Ask when someone last restored any of it.\n3. Offer to test one restore, free, on a spare machine.\n4. Fix whatever breaks, then quote for the rest.\n\nTrust first. The AI work comes after.",
+      "video_tip": "45-60s talking head outside a local shop or café: hold up four fingers and count the steps off as you say them, with each step on screen. End on 'trust first' and hold for a beat."
     },
     {
       "name": "Tony Dinh",
       "display_name": "Tony Dinh",
       "handle": "@tdinh_me",
-      "views": 14687,
-      "url": "https://x.com/tdinh_me/status/2113920538821509161",
-      "hook": "'First time in my life I understand how neural networks work' + demo video of a 6K-parameter CNN he trained by asking Opus to teach him.",
+      "views": 28721,
+      "url": "https://x.com/tdinh_me/status/2114623624267407864",
+      "hook": "'NEW APP!!!' launch that rides the security-incident wave: a macOS clipboard manager that hides API keys and secrets. 110 replies.",
+      "highlight": true,
+      "draft_en": "Everyone's building tools to stop secrets leaking. Good.\n\nAlmost nobody is checking whether they can get their data back after something leaks anyway.\n\nPatching keeps attackers out. Restores keep you in business. I'm building CrossRestore for the second job.",
+      "video_tip": "20-30s face cam: say the first two lines, then cut to a screen recording of a restore running on a test machine. No client data on screen."
+    },
+    {
+      "name": "levelsio",
+      "display_name": "levelsio",
+      "handle": "@levelsio",
+      "views": 15985,
+      "url": "https://x.com/levelsio/status/2114868146322415642",
+      "hook": "Short quote-post co-sign: 'Great post and I think he's right on a lot of it. The question is just how soon?'",
       "highlight": true,
       "draft_en": "No draft today: lower fit for Nick's niche. See the pattern brief."
     },
@@ -162,19 +92,9 @@
       "name": "Tony Dinh",
       "display_name": "Tony Dinh",
       "handle": "@tdinh_me",
-      "views": 10148,
-      "url": "https://x.com/tdinh_me/status/2113902860543127842",
-      "hook": "'Running on CONSUMER GPU??? This is crazy' quote reaction. Caps-lock surprise at a local-AI demo.",
-      "highlight": true,
-      "draft_en": "No draft today: lower fit for Nick's niche. See the pattern brief."
-    },
-    {
-      "name": "Tony Dinh",
-      "display_name": "Tony Dinh",
-      "handle": "@tdinh_me",
-      "views": 6790,
-      "url": "https://x.com/tdinh_me/status/2113809418592948462",
-      "hook": "'Interesting 🤔' quote with an image. Minimal reaction riding someone else's post.",
+      "views": 7276,
+      "url": "https://x.com/tdinh_me/status/2114644124133630403",
+      "hook": "'Am I the first person to build...?' question that invites replies. 39 replies.",
       "highlight": false,
       "draft_en": "No draft today: lower fit for Nick's niche. See the pattern brief."
     },
@@ -182,238 +102,63 @@
       "name": "Daniel Vassallo",
       "display_name": "Daniel Vassallo",
       "handle": "@dvassallo",
-      "views": 8395,
-      "url": "https://x.com/dvassallo/status/2114028942642561463",
-      "hook": "Photo meeting Mika Hakkinen at COTA plus a 90s childhood memory. Nostalgia and a famous face.",
+      "views": 6440,
+      "url": "https://x.com/dvassallo/status/2114834833163604363",
+      "hook": "Robotaxi vs human cab driver, framed as a farmer ploughing by hand when tractors exist. One vivid analogy.",
+      "highlight": false,
+      "draft_en": "Backing up without testing a restore is like owning a fire extinguisher you've never checked the gauge on.\n\nIt looks fine on the wall right up until you need it.",
+      "video_tip": "6-8s deadpan clip: stand next to a real extinguisher, tap the gauge, read the line once. Big captions for sound-off scrollers."
+    },
+    {
+      "name": "Tony Dinh",
+      "display_name": "Tony Dinh",
+      "handle": "@tdinh_me",
+      "views": 5196,
+      "url": "https://x.com/tdinh_me/status/2114645022775902284",
+      "hook": "Thank-you quote to a customer plus the pitch: buy a licence, get the code, let your agents customise it.",
       "highlight": false,
       "draft_en": "No draft today: lower fit for Nick's niche. See the pattern brief."
     },
     {
-      "name": "GREG ISENBERG",
-      "display_name": "GREG ISENBERG",
-      "handle": "@gregisenberg",
-      "views": 34103,
-      "url": "https://x.com/gregisenberg/status/2114427800828399649",
-      "hook": "'\"Sent from AI agent\" is the new \"Sent from iPhone\"'. One-line 'X is the new Y' analogy. 160 replies on 346 likes.",
-      "highlight": true,
-      "draft_en": "\"We had backups\" is the new \"it worked on my machine\".",
-      "video_tip": "6-8s deadpan selfie clip: read the line once to camera, then cut to a terminal showing an empty backup folder. Caption the line in large text for sound-off scrollers."
+      "name": "Arvid Kahl",
+      "display_name": "Arvid Kahl",
+      "handle": "@arvidkahl",
+      "views": 5032,
+      "url": "https://x.com/arvidkahl/status/2114692171500527899",
+      "hook": "'ICPs are moving upstream': if $50 a month feels expensive, most software businesses don't want you as a customer. 92 replies on 61 likes.",
+      "highlight": false,
+      "draft_en": "No draft today: lower fit for Nick's niche. See the pattern brief."
     }
   ],
-  "outsiders": [
-    {
-      "name": "Fox News Politics",
-      "display_name": "Fox News Politics",
-      "handle": "@foxnewspolitics",
-      "views": 2724786,
-      "url": "https://x.com/foxnewspolitics/status/2114296536922529937",
-      "text": "Pentagon preparing every major US base to run 90 days with no outside power, fuel or supply chains.",
-      "hook": "Pentagon preparing every major US base to run 90 days with no outside power, fuel or supply chains."
-    },
-    {
-      "name": "unusual_whales",
-      "display_name": "unusual_whales",
-      "handle": "@unusual_whales",
-      "views": 1047506,
-      "url": "https://x.com/unusual_whales/status/2113770927599272075",
-      "text": "OpenAI says it found a critical Brotli flaw in Node.js, Bun and Envoy: takeover via malicious compressed data.",
-      "hook": "OpenAI says it found a critical Brotli flaw in Node.js, Bun and Envoy: takeover via malicious compressed data."
-    },
-    {
-      "name": "Cyber Security News",
-      "display_name": "Cyber Security News",
-      "handle": "@The_Cyber_News",
-      "views": 511498,
-      "url": "https://x.com/The_Cyber_News/status/2114361192080973940",
-      "text": "Tailscale SSH flaws could let an attacker move from one device to root on other servers. 11 findings.",
-      "hook": "Tailscale SSH flaws could let an attacker move from one device to root on other servers. 11 findings."
-    },
-    {
-      "name": "Apekshik",
-      "display_name": "Apekshik",
-      "handle": "@apekshik",
-      "views": 304175,
-      "url": "https://x.com/apekshik/status/2113798671569748397",
-      "text": "'You can dogfight in my realistic fighter jet simulator now.' Indie build, video demo.",
-      "hook": "'You can dogfight in my realistic fighter jet simulator now.' Indie build, video demo."
-    },
-    {
-      "name": "Dominik",
-      "display_name": "Dominik",
-      "handle": "@sobedominik",
-      "views": 128222,
-      "url": "https://x.com/sobedominik/status/2114176258758111347",
-      "text": "Founder's two worst weeks: ER visit and an AI-driven cyber attack on one of his companies, mid-holiday.",
-      "hook": "Founder's two worst weeks: ER visit and an AI-driven cyber attack on one of his companies, mid-holiday."
-    },
-    {
-      "name": "aronello",
-      "display_name": "aronello",
-      "handle": "@aronello01",
-      "views": 103328,
-      "url": "https://x.com/aronello01/status/2114296157421858842",
-      "text": "Poll: if you read every diff Claude Code writes, is it still vibe coding? a/b/c format.",
-      "hook": "Poll: if you read every diff Claude Code writes, is it still vibe coding? a/b/c format."
-    },
-    {
-      "name": "Roundtable Space",
-      "display_name": "Roundtable Space",
-      "handle": "@RoundtableSpace",
-      "views": 43977,
-      "url": "https://x.com/RoundtableSpace/status/2113922193629532283",
-      "text": "VibeWise plugin: the AI asks for your approach before it writes code, so you learn while vibe coding.",
-      "hook": "VibeWise plugin: the AI asks for your approach before it writes code, so you learn while vibe coding."
-    },
-    {
-      "name": "Ozak",
-      "display_name": "Ozak",
-      "handle": "@OzakAGI",
-      "views": 11937,
-      "url": "https://x.com/OzakAGI/status/2113952951358402716",
-      "text": "Podcast episode: 'Black October: Is the Internet Going Into Lockdown?' AI agents breached 100+ companies.",
-      "hook": "Podcast episode: 'Black October: Is the Internet Going Into Lockdown?' AI agents breached 100+ companies."
-    },
-    {
-      "name": "Rajath",
-      "display_name": "Rajath",
-      "handle": "@buildwithrajath",
-      "views": 5082,
-      "url": "https://x.com/buildwithrajath/status/2114080367514968212",
-      "text": "Model-race take: Opus 5.5 and Kimi K3.1 Pro pressure OpenAI to ship GPT-6 Bel early.",
-      "hook": "Model-race take: Opus 5.5 and Kimi K3.1 Pro pressure OpenAI to ship GPT-6 Bel early."
-    },
-    {
-      "name": "Mason",
-      "display_name": "Mason",
-      "handle": "@Mason33xbt",
-      "views": 4630,
-      "url": "https://x.com/Mason33xbt/status/2114030406341386384",
-      "text": "Trading bot 20% cheaper and 30% faster in a week by running two model providers at once.",
-      "hook": "Trading bot 20% cheaper and 30% faster in a week by running two model providers at once."
-    },
-    {
-      "name": "James",
-      "display_name": "James",
-      "handle": "@jamescoder12",
-      "views": 3981,
-      "url": "https://x.com/jamescoder12/status/2114004323340607795",
-      "text": "Moonshot's Kimi K3.1 Pro beats GPT-6 Astra on Terminal-Bench 4.0 coding benchmark.",
-      "hook": "Moonshot's Kimi K3.1 Pro beats GPT-6 Astra on Terminal-Bench 4.0 coding benchmark."
-    },
-    {
-      "name": "Another Coding",
-      "display_name": "Another Coding",
-      "handle": "@AnotherCodingX",
-      "views": 3312,
-      "url": "https://x.com/AnotherCodingX/status/2113948269885997144",
-      "text": "Daily AI roundup: Claude Mythos 5 safety test incident, OpenAI trains offline, Kimi leads open weights.",
-      "hook": "Daily AI roundup: Claude Mythos 5 safety test incident, OpenAI trains offline, Kimi leads open weights."
-    },
-    {
-      "name": "Suraj Sharma",
-      "display_name": "Suraj Sharma",
-      "handle": "@suraj_sharma14",
-      "views": 3106,
-      "url": "https://x.com/suraj_sharma14/status/2114401603361145179",
-      "text": "Matt Pocock's 'Skills for Real Engineers': 300K GitHub stars, ~30M installs.",
-      "hook": "Matt Pocock's 'Skills for Real Engineers': 300K GitHub stars, ~30M installs."
-    },
-    {
-      "name": "CDG",
-      "display_name": "CDG",
-      "handle": "@CDGalpha",
-      "views": 1467,
-      "url": "https://x.com/CDGalpha/status/2114360682917601666",
-      "text": "Listicle: top 10 Claude skills to stop getting hacked, with star counts.",
-      "hook": "Listicle: top 10 Claude skills to stop getting hacked, with star counts."
-    },
-    {
-      "name": "Kolin Huang",
-      "display_name": "Kolin Huang",
-      "handle": "@KolinHuang",
-      "views": 937,
-      "url": "https://x.com/KolinHuang/status/2114446316445237690",
-      "text": "'Everything that happened in AI last week (Oct 18-25)' weekly recap thread.",
-      "hook": "'Everything that happened in AI last week (Oct 18-25)' weekly recap thread."
-    },
-    {
-      "name": "Wes Winder",
-      "display_name": "Wes Winder",
-      "handle": "@weswinder",
-      "views": 1067,
-      "url": "https://x.com/weswinder/status/2114499092218773521",
-      "text": "Junior vs staff engineer, same Claude Code prompt, different label. Two-line contrast joke.",
-      "hook": "Junior vs staff engineer, same Claude Code prompt, different label. Two-line contrast joke."
-    },
-    {
-      "name": "UnveilWithKunal",
-      "display_name": "UnveilWithKunal",
-      "handle": "@UnveilWithKunal",
-      "views": 979,
-      "url": "https://x.com/UnveilWithKunal/status/2113898346683531403",
-      "text": "Small-account milestone: 5 to 200 followers since 6 Sep, $0 MRR, 'let's connect if you're a...'.",
-      "hook": "Small-account milestone: 5 to 200 followers since 6 Sep, $0 MRR, 'let's connect if you're a...'."
-    },
-    {
-      "name": "Zed",
-      "display_name": "Zed",
-      "handle": "@zedonchain_",
-      "views": 596,
-      "url": "https://x.com/zedonchain_/status/2114134168456065300",
-      "text": "Black October list: Railway and Zeabur leaked env vars, LiteLLM shipped a poisoned release.",
-      "hook": "Black October list: Railway and Zeabur leaked env vars, LiteLLM shipped a poisoned release."
-    },
-    {
-      "name": "perperp",
-      "display_name": "perperp",
-      "handle": "@perperp_er",
-      "views": 315,
-      "url": "https://x.com/perperp_er/status/2114345317688881425",
-      "text": "Summary of levelsio's Claude Code security audit day. Second-hand rides of the big post.",
-      "hook": "Summary of levelsio's Claude Code security audit day. Second-hand rides of the big post."
-    },
-    {
-      "name": "Vlad Sheikin",
-      "display_name": "Vlad Sheikin",
-      "handle": "@v_sheikin",
-      "views": 208,
-      "url": "https://x.com/v_sheikin/status/2113924103094608050",
-      "text": "'Black October: 8 hacks this week. How many hit you?' Self-scoring checklist with fixes.",
-      "hook": "'Black October: 8 hacks this week. How many hit you?' Self-scoring checklist with fixes."
-    }
-  ],
+  "outsiders": [],
   "patterns": [
-    "Claude Code",
-    "security audit",
-    "Black October",
-    "now it's X's turn",
-    "Tailscale",
-    "Brotli",
-    "\"security week\"",
-    "exact prompt in quotes",
-    "Yesterday I spent all day…",
-    "X is the new Y",
-    "Who is building this?",
-    "quote-post + 1 line",
-    "numbered how-to",
-    "pricing floor / segmentation",
-    "learn anything with Opus",
-    "resilience / 90 days off-grid",
-    "native video + timestamps",
-    "bookmark bait: checklists"
+    "Anthropic S-1",
+    "Big AI / Big Tech wins",
+    "numbered quick takeaways",
+    "step by step playbook",
+    "AI for Main Street",
+    "bookmark bait",
+    "security incidents",
+    "secrets / API keys",
+    "NEW APP!!! launch",
+    "'Am I the first...?'",
+    "contrast analogy",
+    "pricing / ICP upstream",
+    "quote-post co-sign",
+    "$GOOGL contrarian buy"
   ],
   "no_hits": [
     {
       "handle": "@thepatwalls",
-      "reason": "No original posts in the last ~48h.",
+      "reason": "No original posts in the last ~24h.",
       "max_views": 0
     }
   ],
-  "narrative_synthesis": "Black October is the meta: AI-found flaws (PHP2Shell, Brotli in Node, Tailscale SSH) land every few days and builders are turning them into a running series and a monthly 'security week'. Around it: Claude Code workflow posts with the exact prompt, model-race takes (Opus 5.5, Kimi K3.1 Pro, GPT-6), and resilience stories like the Pentagon's 90-day bases. Disaster recovery is the gap nobody in the watchlist is filling: lots of 'patch and audit', almost no 'can you restore'.",
-  "virals_window": "last ~48h",
+  "narrative_synthesis": "AI money is today's meta: Greg's numbered Anthropic S-1 takeaways and levelsio's 'only Big AI wins' and $GOOGL posts pulled the biggest numbers. Step-by-step playbooks got saved far more than liked (Greg's Main Street guide), and Tony's secrets-hiding app shows the security-incident wave still sells launches. Contrast analogies (robotaxi vs farmer, painter vs doctor) carried dvassallo. Recovery is still the gap: lots of 'keep secrets safe', almost nobody asking 'can you get it back'.",
+  "virals_window": "last ~24h",
   "virals_target": 20,
-  "hits_count": 19,
-  "outsiders_count": 20,
+  "hits_count": 12,
+  "outsiders_count": 0,
   "operator": {
     "handle": "@nicholasgee",
     "name": "Nicholas Gee",
@@ -424,50 +169,50 @@
   },
   "day_roster": [
     {
-      "handle": "@levelsio",
-      "name": "levelsio",
-      "views": 155778,
-      "total_views": 885552,
-      "hit": true,
-      "is_you": false
-    },
-    {
       "handle": "@gregisenberg",
       "name": "GREG ISENBERG",
-      "views": 34103,
-      "total_views": 34103,
+      "views": 696342,
+      "total_views": 751261,
       "hit": true,
       "is_you": false
     },
     {
-      "handle": "@arvidkahl",
-      "name": "Arvid Kahl",
-      "views": 22501,
-      "total_views": 46192,
-      "hit": true,
-      "is_you": false
-    },
-    {
-      "handle": "@tdinh_me",
-      "name": "Tony Dinh",
-      "views": 14687,
-      "total_views": 31625,
+      "handle": "@levelsio",
+      "name": "levelsio",
+      "views": 192397,
+      "total_views": 434705,
       "hit": true,
       "is_you": false
     },
     {
       "handle": "@dvassallo",
       "name": "Daniel Vassallo",
-      "views": 8395,
-      "total_views": 8395,
+      "views": 102966,
+      "total_views": 109406,
+      "hit": true,
+      "is_you": false
+    },
+    {
+      "handle": "@tdinh_me",
+      "name": "Tony Dinh",
+      "views": 28721,
+      "total_views": 41193,
+      "hit": true,
+      "is_you": false
+    },
+    {
+      "handle": "@arvidkahl",
+      "name": "Arvid Kahl",
+      "views": 5032,
+      "total_views": 5032,
       "hit": true,
       "is_you": false
     },
     {
       "handle": "@nicholasgee",
       "name": "Nicholas Gee",
-      "views": 3,
-      "total_views": 12,
+      "views": 5,
+      "total_views": 7,
       "hit": false,
       "is_you": true
     },
@@ -482,10 +227,10 @@
   ],
   "you_rank": {
     "handle": "@nicholasgee",
-    "best_views": 3,
-    "total_views": 12,
+    "best_views": 5,
+    "total_views": 7,
     "rank_among_watchlist": 6,
-    "best_url": "https://x.com/nicholasgee/status/2114179226366779728"
+    "best_url": "https://x.com/nicholasgee/status/2114540859387765116"
   },
   "board_features": {
     "count_up": true,
