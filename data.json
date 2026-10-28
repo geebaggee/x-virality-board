@@ -1,58 +1,18 @@
 {
-  "title": "Daily X narrative digest — 2026-10-27",
-  "date": "2026-10-27",
+  "title": "Daily X narrative digest — 2026-10-28",
+  "date": "2026-10-28",
   "timezone": "Australia/Brisbane",
-  "updated": "2026-10-27T10:38:11+10:00",
+  "updated": "2026-10-28T10:34:55+10:00",
   "brand_title": "Grok Bot X Virality Score",
   "brand_handle": "@nicholasgee",
   "hits": [
     {
-      "name": "GREG ISENBERG",
-      "display_name": "GREG ISENBERG",
-      "handle": "@gregisenberg",
-      "views": 696342,
-      "url": "https://x.com/gregisenberg/status/2114711399620333841",
-      "hook": "Numbered quick takeaways on the Anthropic S-1, posted fast after the filing. 2,951 bookmarks and 358 replies.",
-      "highlight": true,
-      "draft_en": "No draft today: lower fit for Nick's niche. See the pattern brief."
-    },
-    {
       "name": "levelsio",
       "display_name": "levelsio",
       "handle": "@levelsio",
-      "views": 192397,
-      "url": "https://x.com/levelsio/status/2114792905973838057",
-      "hook": "Contrarian money move: buying $GOOGL while 'Google is down bad', plus a FaceTime story about his dad cancelling ChatGPT.",
-      "highlight": true,
-      "draft_en": "No draft today: lower fit for Nick's niche. See the pattern brief."
-    },
-    {
-      "name": "levelsio",
-      "display_name": "levelsio",
-      "handle": "@levelsio",
-      "views": 151782,
-      "url": "https://x.com/levelsio/status/2114700426528575817",
-      "hook": "'I keep saying this but...' economics take: only Big AI and Big Tech win, so own their stock. 837 bookmarks.",
-      "highlight": true,
-      "draft_en": "No draft today: lower fit for Nick's niche. See the pattern brief."
-    },
-    {
-      "name": "Daniel Vassallo",
-      "display_name": "Daniel Vassallo",
-      "handle": "@dvassallo",
-      "views": 102966,
-      "url": "https://x.com/dvassallo/status/2114577956362223889",
-      "hook": "Contrast observation: the painter from trade school wants the same life as the doctor, so services are never cheap in America.",
-      "highlight": true,
-      "draft_en": "No draft today: lower fit for Nick's niche. See the pattern brief."
-    },
-    {
-      "name": "levelsio",
-      "display_name": "levelsio",
-      "handle": "@levelsio",
-      "views": 74541,
-      "url": "https://x.com/levelsio/status/2114705745816006795",
-      "hook": "'Guys literally only want one thing' meme format about ground beef and rice, with a photo.",
+      "views": 1097832,
+      "url": "https://x.com/levelsio/status/2115038124526989711",
+      "hook": "Long first-person story with real dialogue: the Uber driver to Florianópolis with a gun in a holster. 9,416 likes, 2,080 bookmarks.",
       "highlight": true,
       "draft_en": "No draft today: lower fit for Nick's niche. See the pattern brief."
     },
@@ -60,31 +20,50 @@
       "name": "GREG ISENBERG",
       "display_name": "GREG ISENBERG",
       "handle": "@gregisenberg",
-      "views": 54919,
-      "url": "https://x.com/gregisenberg/status/2114788328868544908",
-      "hook": "'Here's how to sell AI to Main Street with no audience and no money, step by step.' 1,134 bookmarks on 527 likes: saved as a playbook.",
+      "views": 86466,
+      "url": "https://x.com/gregisenberg/status/2115172540238979474",
+      "hook": "'saas is becoming free': three 'give away the...' lines, then the twist, 'charge for the agent that does the work'. 582 bookmarks, 225 replies.",
       "highlight": true,
-      "draft_en": "Greg's right that Main Street is the big AI opportunity. The pitch that gets you in the door isn't AI, though. It's \"what happens to your business if this computer dies tonight?\"\n\nAfter nearly 30 years in disaster recovery, here's how I'd open that conversation:\n\n1. Ask where the customer list, the books and the bookings actually live.\n2. Ask when someone last restored any of it.\n3. Offer to test one restore, free, on a spare machine.\n4. Fix whatever breaks, then quote for the rest.\n\nTrust first. The AI work comes after.",
-      "video_tip": "45-60s talking head outside a local shop or café: hold up four fingers and count the steps off as you say them, with each step on screen. End on 'trust first' and hold for a beat."
-    },
-    {
-      "name": "Tony Dinh",
-      "display_name": "Tony Dinh",
-      "handle": "@tdinh_me",
-      "views": 28721,
-      "url": "https://x.com/tdinh_me/status/2114623624267407864",
-      "hook": "'NEW APP!!!' launch that rides the security-incident wave: a macOS clipboard manager that hides API keys and secrets. 110 replies.",
-      "highlight": true,
-      "draft_en": "Everyone's building tools to stop secrets leaking. Good.\n\nAlmost nobody is checking whether they can get their data back after something leaks anyway.\n\nPatching keeps attackers out. Restores keep you in business. I'm building CrossRestore for the second job.",
-      "video_tip": "20-30s face cam: say the first two lines, then cut to a screen recording of a restore running on a test machine. No client data on screen."
+      "draft_en": "backup is becoming free\n\nevery platform gives you a snapshot\nevery tool gives you a dashboard\nevery vendor gives you a green tick\n\nnobody pays for those\n\nthey pay for the restore that works when the server is gone",
+      "video_tip": "10-15s text-on-screen post: one line per beat, white on black, the last line held for two seconds. Or say it straight to camera with no cuts."
     },
     {
       "name": "levelsio",
       "display_name": "levelsio",
       "handle": "@levelsio",
-      "views": 15985,
-      "url": "https://x.com/levelsio/status/2114868146322415642",
-      "hook": "Short quote-post co-sign: 'Great post and I think he's right on a lot of it. The question is just how soon?'",
+      "views": 72254,
+      "url": "https://x.com/levelsio/status/2115080251214598579",
+      "hook": "Follow-up that rides his own viral post: 'This is what I mean', South Brazil and the Southern Cone.",
+      "highlight": true,
+      "draft_en": "No draft today: lower fit for Nick's niche. See the pattern brief."
+    },
+    {
+      "name": "levelsio",
+      "display_name": "levelsio",
+      "handle": "@levelsio",
+      "views": 69731,
+      "url": "https://x.com/levelsio/status/2115174088809320569",
+      "hook": "Honest before-and-after product review with video: the Roborock kept getting stuck, the Matic robot vacuum doesn't. 256 bookmarks.",
+      "highlight": true,
+      "draft_en": "No draft today: lower fit for Nick's niche. See the pattern brief."
+    },
+    {
+      "name": "levelsio",
+      "display_name": "levelsio",
+      "handle": "@levelsio",
+      "views": 55316,
+      "url": "https://x.com/levelsio/status/2115155070706720857",
+      "hook": "'Talked with my clanker': AI-assisted self-check on magnesium intake, with numbers and a 'report back' promise. 265 bookmarks.",
+      "highlight": true,
+      "draft_en": "No draft today: lower fit for Nick's niche. See the pattern brief."
+    },
+    {
+      "name": "levelsio",
+      "display_name": "levelsio",
+      "handle": "@levelsio",
+      "views": 25510,
+      "url": "https://x.com/levelsio/status/2115199427271086583",
+      "hook": "One-line photo follow-up to the robot vacuum post.",
       "highlight": true,
       "draft_en": "No draft today: lower fit for Nick's niche. See the pattern brief."
     },
@@ -92,60 +71,58 @@
       "name": "Tony Dinh",
       "display_name": "Tony Dinh",
       "handle": "@tdinh_me",
-      "views": 7276,
-      "url": "https://x.com/tdinh_me/status/2114644124133630403",
-      "hook": "'Am I the first person to build...?' question that invites replies. 39 replies.",
-      "highlight": false,
-      "draft_en": "No draft today: lower fit for Nick's niche. See the pattern brief."
-    },
-    {
-      "name": "Daniel Vassallo",
-      "display_name": "Daniel Vassallo",
-      "handle": "@dvassallo",
-      "views": 6440,
-      "url": "https://x.com/dvassallo/status/2114834833163604363",
-      "hook": "Robotaxi vs human cab driver, framed as a farmer ploughing by hand when tractors exist. One vivid analogy.",
-      "highlight": false,
-      "draft_en": "Backing up without testing a restore is like owning a fire extinguisher you've never checked the gauge on.\n\nIt looks fine on the wall right up until you need it.",
-      "video_tip": "6-8s deadpan clip: stand next to a real extinguisher, tap the gauge, read the line once. Big captions for sound-off scrollers."
+      "views": 10414,
+      "url": "https://x.com/tdinh_me/status/2115036673193230747",
+      "hook": "Price shock with a screenshot: 'Holy shit @cursor_ai is expensive'. 55 replies on 56 likes.",
+      "highlight": true,
+      "draft_en": "Holy heck, extra SharePoint storage is expensive.\n\nMicrosoft charges about US$205 per TB a month once you go over your tenant's pool.\n\nA lot of what fills it is files that haven't changed in two years.\n\nThat's why I built ArchiveBridge: it moves those files out for US$35 per TB and leaves a link that restores each one.",
+      "video_tip": "20-30s screen recording: show Microsoft's own extra-storage price, then the ArchiveBridge price. Use a test tenant, no client names on screen."
     },
     {
       "name": "Tony Dinh",
       "display_name": "Tony Dinh",
       "handle": "@tdinh_me",
-      "views": 5196,
-      "url": "https://x.com/tdinh_me/status/2114645022775902284",
-      "hook": "Thank-you quote to a customer plus the pitch: buy a licence, get the code, let your agents customise it.",
+      "views": 9989,
+      "url": "https://x.com/tdinh_me/status/2114986329964736846",
+      "hook": "Speed brag: asked his bot to build an offline Hacker News iOS app and it finished before take-off. 102 replies.",
       "highlight": false,
-      "draft_en": "No draft today: lower fit for Nick's niche. See the pattern brief."
+      "draft_en": "One question to ask your coding agent tonight:\n\n\"If the database was deleted right now, what exactly would we restore from?\"\n\nNot the code. Git has that.\n\nThe rows, the storage files, the auth users.\n\nIf the answer starts with \"I think\", you don't have a backup yet. Nearly 30 years in disaster recovery and that's still the question that catches people.",
+      "video_tip": "30-45s face cam: read the question to camera, then show the prompt typed into your coding agent on a test project. Captions on for sound-off scrollers."
     },
     {
       "name": "Arvid Kahl",
       "display_name": "Arvid Kahl",
       "handle": "@arvidkahl",
-      "views": 5032,
-      "url": "https://x.com/arvidkahl/status/2114692171500527899",
-      "hook": "'ICPs are moving upstream': if $50 a month feels expensive, most software businesses don't want you as a customer. 92 replies on 61 likes.",
+      "views": 7590,
+      "url": "https://x.com/arvidkahl/status/2114880350468129253",
+      "hook": "Valuation question he openly can't answer: 'I can't reason my way there...'",
+      "highlight": false,
+      "draft_en": "No draft today: lower fit for Nick's niche. See the pattern brief."
+    },
+    {
+      "name": "Daniel Vassallo",
+      "display_name": "Daniel Vassallo",
+      "handle": "@dvassallo",
+      "views": 5712,
+      "url": "https://x.com/dvassallo/status/2115169186985193768",
+      "hook": "Rhetorical question about Mbappé's Chinese brand deals, with a link.",
       "highlight": false,
       "draft_en": "No draft today: lower fit for Nick's niche. See the pattern brief."
     }
   ],
   "outsiders": [],
   "patterns": [
-    "Anthropic S-1",
-    "Big AI / Big Tech wins",
-    "numbered quick takeaways",
-    "step by step playbook",
-    "AI for Main Street",
-    "bookmark bait",
-    "security incidents",
-    "secrets / API keys",
-    "NEW APP!!! launch",
-    "'Am I the first...?'",
-    "contrast analogy",
-    "pricing / ICP upstream",
-    "quote-post co-sign",
-    "$GOOGL contrarian buy"
+    "first-person story with dialogue",
+    "follow-up riding your own viral",
+    "'X is becoming free'",
+    "give away the..., charge for...",
+    "agents that do the work",
+    "honest before-and-after review",
+    "'talked with my clanker'",
+    "price shock screenshot",
+    "built it before take-off",
+    "open question you can't answer",
+    "bookmark bait"
   ],
   "no_hits": [
     {
@@ -154,10 +131,10 @@
       "max_views": 0
     }
   ],
-  "narrative_synthesis": "AI money is today's meta: Greg's numbered Anthropic S-1 takeaways and levelsio's 'only Big AI wins' and $GOOGL posts pulled the biggest numbers. Step-by-step playbooks got saved far more than liked (Greg's Main Street guide), and Tony's secrets-hiding app shows the security-incident wave still sells launches. Contrast analogies (robotaxi vs farmer, painter vs doctor) carried dvassallo. Recovery is still the gap: lots of 'keep secrets safe', almost nobody asking 'can you get it back'.",
+  "narrative_synthesis": "Stories and stances beat news today. levelsio's Uber-driver story pulled over a million views on plain first-person dialogue, then he rode it with a follow-up. Greg's 'saas is becoming free, charge for the agent that does the work' got saved like a manifesto. Tony's Cursor price shock and before-take-off app build show cost and speed still pull replies. Nobody on the list is talking about what happens when the agent breaks something, which is Nick's lane.",
   "virals_window": "last ~24h",
   "virals_target": 20,
-  "hits_count": 12,
+  "hits_count": 10,
   "outsiders_count": 0,
   "operator": {
     "handle": "@nicholasgee",
@@ -169,50 +146,50 @@
   },
   "day_roster": [
     {
-      "handle": "@gregisenberg",
-      "name": "GREG ISENBERG",
-      "views": 696342,
-      "total_views": 751261,
-      "hit": true,
-      "is_you": false
-    },
-    {
       "handle": "@levelsio",
       "name": "levelsio",
-      "views": 192397,
-      "total_views": 434705,
+      "views": 1097832,
+      "total_views": 1320643,
       "hit": true,
       "is_you": false
     },
     {
-      "handle": "@dvassallo",
-      "name": "Daniel Vassallo",
-      "views": 102966,
-      "total_views": 109406,
+      "handle": "@gregisenberg",
+      "name": "GREG ISENBERG",
+      "views": 86466,
+      "total_views": 86466,
       "hit": true,
       "is_you": false
     },
     {
       "handle": "@tdinh_me",
       "name": "Tony Dinh",
-      "views": 28721,
-      "total_views": 41193,
+      "views": 10414,
+      "total_views": 20403,
       "hit": true,
       "is_you": false
     },
     {
       "handle": "@arvidkahl",
       "name": "Arvid Kahl",
-      "views": 5032,
-      "total_views": 5032,
+      "views": 7590,
+      "total_views": 7590,
+      "hit": true,
+      "is_you": false
+    },
+    {
+      "handle": "@dvassallo",
+      "name": "Daniel Vassallo",
+      "views": 5712,
+      "total_views": 5712,
       "hit": true,
       "is_you": false
     },
     {
       "handle": "@nicholasgee",
       "name": "Nicholas Gee",
-      "views": 5,
-      "total_views": 7,
+      "views": 0,
+      "total_views": 0,
       "hit": false,
       "is_you": true
     },
@@ -227,10 +204,10 @@
   ],
   "you_rank": {
     "handle": "@nicholasgee",
-    "best_views": 5,
-    "total_views": 7,
+    "best_views": 0,
+    "total_views": 0,
     "rank_among_watchlist": 6,
-    "best_url": "https://x.com/nicholasgee/status/2114540859387765116"
+    "best_url": "https://x.com/nicholasgee/status/2115197443738571147"
   },
   "board_features": {
     "count_up": true,
