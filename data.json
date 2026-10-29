@@ -1,8 +1,8 @@
 {
-  "title": "Daily X narrative digest — 2026-10-28",
-  "date": "2026-10-28",
+  "title": "Daily X narrative digest — 2026-10-29",
+  "date": "2026-10-29",
   "timezone": "Australia/Brisbane",
-  "updated": "2026-10-28T10:34:55+10:00",
+  "updated": "2026-10-29T10:32:16+10:00",
   "brand_title": "Grok Bot X Virality Score",
   "brand_handle": "@nicholasgee",
   "hits": [
@@ -10,30 +10,9 @@
       "name": "levelsio",
       "display_name": "levelsio",
       "handle": "@levelsio",
-      "views": 1097832,
-      "url": "https://x.com/levelsio/status/2115038124526989711",
-      "hook": "Long first-person story with real dialogue: the Uber driver to Florianópolis with a gun in a holster. 9,416 likes, 2,080 bookmarks.",
-      "highlight": true,
-      "draft_en": "No draft today: lower fit for Nick's niche. See the pattern brief."
-    },
-    {
-      "name": "GREG ISENBERG",
-      "display_name": "GREG ISENBERG",
-      "handle": "@gregisenberg",
-      "views": 86466,
-      "url": "https://x.com/gregisenberg/status/2115172540238979474",
-      "hook": "'saas is becoming free': three 'give away the...' lines, then the twist, 'charge for the agent that does the work'. 582 bookmarks, 225 replies.",
-      "highlight": true,
-      "draft_en": "backup is becoming free\n\nevery platform gives you a snapshot\nevery tool gives you a dashboard\nevery vendor gives you a green tick\n\nnobody pays for those\n\nthey pay for the restore that works when the server is gone",
-      "video_tip": "10-15s text-on-screen post: one line per beat, white on black, the last line held for two seconds. Or say it straight to camera with no cuts."
-    },
-    {
-      "name": "levelsio",
-      "display_name": "levelsio",
-      "handle": "@levelsio",
-      "views": 72254,
-      "url": "https://x.com/levelsio/status/2115080251214598579",
-      "hook": "Follow-up that rides his own viral post: 'This is what I mean', South Brazil and the Southern Cone.",
+      "views": 664278,
+      "url": "https://x.com/levelsio/status/2115398769030082660",
+      "hook": "Spanish train deaths this year compared with flying and driving. Tragedy plus a bold ratio; 6,266 likes, 1,205 bookmarks. Not one to ride.",
       "highlight": true,
       "draft_en": "No draft today: lower fit for Nick's niche. See the pattern brief."
     },
@@ -41,9 +20,9 @@
       "name": "levelsio",
       "display_name": "levelsio",
       "handle": "@levelsio",
-      "views": 69731,
-      "url": "https://x.com/levelsio/status/2115174088809320569",
-      "hook": "Honest before-and-after product review with video: the Roborock kept getting stuck, the Matic robot vacuum doesn't. 256 bookmarks.",
+      "views": 109416,
+      "url": "https://x.com/levelsio/status/2115505515275206770",
+      "hook": "Unboxing DHH's Dell XPS 14 with Omarchy: 'set up took less than a minute', onboarding asks you questions. 213 bookmarks.",
       "highlight": true,
       "draft_en": "No draft today: lower fit for Nick's niche. See the pattern brief."
     },
@@ -51,9 +30,31 @@
       "name": "levelsio",
       "display_name": "levelsio",
       "handle": "@levelsio",
-      "views": 55316,
-      "url": "https://x.com/levelsio/status/2115155070706720857",
-      "hook": "'Talked with my clanker': AI-assisted self-check on magnesium intake, with numbers and a 'report back' promise. 265 bookmarks.",
+      "views": 85339,
+      "url": "https://x.com/levelsio/status/2115450177716985924",
+      "hook": "'Anyone know a good organic chicken supplier in Portugal? Turns out my butcher was selling me industrial chicken.' Open question plus a confession; 87 replies.",
+      "highlight": true,
+      "draft_en": "Question for Aussie property investors and flippers:\n\nWhen a listing catches your eye, what's the first number you check before you ring the agent?\n\nI'm building FlipPro (paste a listing URL or address, get an AI read on the deal) and I want to know what belongs at the top of the page.",
+      "video_tip": "20-30s selfie video: open a real Australian listing on your phone, ask the question to camera, and leave it open so viewers answer in the replies. No numbers on screen you can't stand behind."
+    },
+    {
+      "name": "levelsio",
+      "display_name": "levelsio",
+      "handle": "@levelsio",
+      "views": 68526,
+      "url": "https://x.com/levelsio/status/2115417533457006656",
+      "hook": "'Everything I do runs on my VPS servers. The only interface is Termius SSH and then Claude Code.' Whole-life stack in one post; 558 bookmarks.",
+      "highlight": true,
+      "draft_en": "Running everything on one VPS is a great setup right up until the VPS is gone.\n\nThree questions worth asking before that day:\n\nWhere's the copy?\nIs it with a different provider?\nWhen did you last restore it somewhere else?\n\nNearly 30 years in disaster recovery and the third one is the one people skip.",
+      "video_tip": "30-45s talking head at your desk: say the opening line, then put each of the three questions on screen as you ask it. Hold on the third one for two seconds before you cut."
+    },
+    {
+      "name": "levelsio",
+      "display_name": "levelsio",
+      "handle": "@levelsio",
+      "views": 59804,
+      "url": "https://x.com/levelsio/status/2115541852958916728",
+      "hook": "One-word quote post: 'Oops'. 751 likes.",
       "highlight": true,
       "draft_en": "No draft today: lower fit for Nick's niche. See the pattern brief."
     },
@@ -61,41 +62,79 @@
       "name": "levelsio",
       "display_name": "levelsio",
       "handle": "@levelsio",
-      "views": 25510,
-      "url": "https://x.com/levelsio/status/2115199427271086583",
-      "hook": "One-line photo follow-up to the robot vacuum post.",
+      "views": 50783,
+      "url": "https://x.com/levelsio/status/2115512638176420063",
+      "hook": "Omarchy tip: Action + K shows every shortcut. Small, useful, saveable.",
       "highlight": true,
       "draft_en": "No draft today: lower fit for Nick's niche. See the pattern brief."
     },
     {
-      "name": "Tony Dinh",
-      "display_name": "Tony Dinh",
-      "handle": "@tdinh_me",
-      "views": 10414,
-      "url": "https://x.com/tdinh_me/status/2115036673193230747",
-      "hook": "Price shock with a screenshot: 'Holy shit @cursor_ai is expensive'. 55 replies on 56 likes.",
+      "name": "levelsio",
+      "display_name": "levelsio",
+      "handle": "@levelsio",
+      "views": 50059,
+      "url": "https://x.com/levelsio/status/2115406004297077033",
+      "hook": "'+30min REM sleep with magnesium glycinate' with tracker screenshots. One-day self-experiment; 197 bookmarks.",
       "highlight": true,
-      "draft_en": "Holy heck, extra SharePoint storage is expensive.\n\nMicrosoft charges about US$205 per TB a month once you go over your tenant's pool.\n\nA lot of what fills it is files that haven't changed in two years.\n\nThat's why I built ArchiveBridge: it moves those files out for US$35 per TB and leaves a link that restores each one.",
-      "video_tip": "20-30s screen recording: show Microsoft's own extra-storage price, then the ArchiveBridge price. Use a test tenant, no client names on screen."
+      "draft_en": "No draft today: lower fit for Nick's niche. See the pattern brief."
     },
     {
-      "name": "Tony Dinh",
-      "display_name": "Tony Dinh",
-      "handle": "@tdinh_me",
-      "views": 9989,
-      "url": "https://x.com/tdinh_me/status/2114986329964736846",
-      "hook": "Speed brag: asked his bot to build an offline Hacker News iOS app and it finished before take-off. 102 replies.",
+      "name": "levelsio",
+      "display_name": "levelsio",
+      "handle": "@levelsio",
+      "views": 43795,
+      "url": "https://x.com/levelsio/status/2115445726289260775",
+      "hook": "Product Hunt's 'Login with X' permissions went mental, 'safer to not use it anymore?' Question format; 198 replies.",
+      "highlight": true,
+      "draft_en": "No draft today: lower fit for Nick's niche. See the pattern brief."
+    },
+    {
+      "name": "levelsio",
+      "display_name": "levelsio",
+      "handle": "@levelsio",
+      "views": 33563,
+      "url": "https://x.com/levelsio/status/2115514133713997842",
+      "hook": "'I guess we're omarchyposting now' plus the screensaver video. Riding his own thread.",
+      "highlight": true,
+      "draft_en": "No draft today: lower fit for Nick's niche. See the pattern brief."
+    },
+    {
+      "name": "levelsio",
+      "display_name": "levelsio",
+      "handle": "@levelsio",
+      "views": 11986,
+      "url": "https://x.com/levelsio/status/2115568914054729744",
+      "hook": "Media-only post, no caption.",
+      "highlight": true,
+      "draft_en": "No draft today: lower fit for Nick's niche. See the pattern brief."
+    },
+    {
+      "name": "levelsio",
+      "display_name": "levelsio",
+      "handle": "@levelsio",
+      "views": 10577,
+      "url": "https://x.com/levelsio/status/2115586985888825445",
+      "hook": "Submitted his app to the MCP directories; had to add OAuth because API keys weren't allowed.",
+      "highlight": true,
+      "draft_en": "No draft today: lower fit for Nick's niche. See the pattern brief."
+    },
+    {
+      "name": "Daniel Vassallo",
+      "display_name": "Daniel Vassallo",
+      "handle": "@dvassallo",
+      "views": 7793,
+      "url": "https://x.com/dvassallo/status/2115541982047342758",
+      "hook": "Waymo looks 'like a potato with wheels', Cybercab 'like the future showed up early'. Pick-a-side take.",
       "highlight": false,
-      "draft_en": "One question to ask your coding agent tonight:\n\n\"If the database was deleted right now, what exactly would we restore from?\"\n\nNot the code. Git has that.\n\nThe rows, the storage files, the auth users.\n\nIf the answer starts with \"I think\", you don't have a backup yet. Nearly 30 years in disaster recovery and that's still the question that catches people.",
-      "video_tip": "30-45s face cam: read the question to camera, then show the prompt typed into your coding agent on a test project. Captions on for sound-off scrollers."
+      "draft_en": "No draft today: lower fit for Nick's niche. See the pattern brief."
     },
     {
       "name": "Arvid Kahl",
       "display_name": "Arvid Kahl",
       "handle": "@arvidkahl",
-      "views": 7590,
-      "url": "https://x.com/arvidkahl/status/2114880350468129253",
-      "hook": "Valuation question he openly can't answer: 'I can't reason my way there...'",
+      "views": 6072,
+      "url": "https://x.com/arvidkahl/status/2115420324086849983",
+      "hook": "'To anyone who believes MCP is dead on arrival, here's an adoption curve from a real product.' Proof chart against a popular take.",
       "highlight": false,
       "draft_en": "No draft today: lower fit for Nick's niche. See the pattern brief."
     },
@@ -103,38 +142,70 @@
       "name": "Daniel Vassallo",
       "display_name": "Daniel Vassallo",
       "handle": "@dvassallo",
-      "views": 5712,
-      "url": "https://x.com/dvassallo/status/2115169186985193768",
-      "hook": "Rhetorical question about Mbappé's Chinese brand deals, with a link.",
+      "views": 6061,
+      "url": "https://x.com/dvassallo/status/2115241037581214135",
+      "hook": "'Me and F1 world champions were using the same mode of transport in Austin.' Humblebrag photo.",
       "highlight": false,
       "draft_en": "No draft today: lower fit for Nick's niche. See the pattern brief."
+    },
+    {
+      "name": "Arvid Kahl",
+      "display_name": "Arvid Kahl",
+      "handle": "@arvidkahl",
+      "views": 5652,
+      "url": "https://x.com/arvidkahl/status/2115530999375274439",
+      "hook": "'Hey look RAM prices are totally acceptable nowadays.' Sarcastic price screenshot.",
+      "highlight": false,
+      "draft_en": "No draft today: lower fit for Nick's niche. See the pattern brief."
+    },
+    {
+      "name": "Arvid Kahl",
+      "display_name": "Arvid Kahl",
+      "handle": "@arvidkahl",
+      "views": 5236,
+      "url": "https://x.com/arvidkahl/status/2115437618204971489",
+      "hook": "A fork of a private repo got cascade-deleted when the original went, and that was 'expected behavior'. Audit-trail lesson; 42 replies.",
+      "highlight": false,
+      "draft_en": "A fork of a private repo got deleted because the original was deleted. Apparently that's expected behaviour.\n\nGood test for any copy you rely on: if the original disappears, does the copy go with it?\n\nIf yes, it's a mirror, not a backup.\n\nForks, same-account snapshots, replicas that sync deletes. Same trap.",
+      "video_tip": "15-20s screen recording: show a repo list, then a mock fork disappearing when the original is deleted (a test account only). End on the line 'mirror, not a backup' in big text."
     }
   ],
   "outsiders": [],
   "patterns": [
-    "first-person story with dialogue",
-    "follow-up riding your own viral",
-    "'X is becoming free'",
-    "give away the..., charge for...",
-    "agents that do the work",
-    "honest before-and-after review",
-    "'talked with my clanker'",
-    "price shock screenshot",
-    "built it before take-off",
-    "open question you can't answer",
-    "bookmark bait"
+    "Omarchy / new-machine unboxing",
+    "whole stack on one VPS",
+    "Claude Code over SSH",
+    "open question to the crowd",
+    "confession: turns out X was Y",
+    "one-word quote post",
+    "one-day self-experiment",
+    "MCP adoption and directories",
+    "pick-a-side comparison",
+    "sarcastic price screenshot",
+    "'expected behaviour' surprise",
+    "bookmark bait: setups and tips"
   ],
   "no_hits": [
+    {
+      "handle": "@gregisenberg",
+      "reason": "No original posts in the last ~24h.",
+      "max_views": 0
+    },
+    {
+      "handle": "@tdinh_me",
+      "reason": "No original posts in the last ~24h.",
+      "max_views": 0
+    },
     {
       "handle": "@thepatwalls",
       "reason": "No original posts in the last ~24h.",
       "max_views": 0
     }
   ],
-  "narrative_synthesis": "Stories and stances beat news today. levelsio's Uber-driver story pulled over a million views on plain first-person dialogue, then he rode it with a follow-up. Greg's 'saas is becoming free, charge for the agent that does the work' got saved like a manifesto. Tony's Cursor price shock and before-take-off app build show cost and speed still pull replies. Nobody on the list is talking about what happens when the agent breaks something, which is Nick's lane.",
+  "narrative_synthesis": "levelsio carried the day again: a sombre train-safety stat went huge, but the builder posts that got saved were his Omarchy unboxing and 'everything runs on my VPS with Claude Code over SSH'. Open questions (organic chicken, Product Hunt's X login) pulled the most replies per view. Arvid pushed MCP with a real adoption chart and flagged a fork that vanished with its original. Nobody asked what happens when the one VPS or the original repo is gone, which is Nick's disaster recovery lane.",
   "virals_window": "last ~24h",
   "virals_target": 20,
-  "hits_count": 10,
+  "hits_count": 16,
   "outsiders_count": 0,
   "operator": {
     "handle": "@nicholasgee",
@@ -148,41 +219,49 @@
     {
       "handle": "@levelsio",
       "name": "levelsio",
-      "views": 1097832,
-      "total_views": 1320643,
-      "hit": true,
-      "is_you": false
-    },
-    {
-      "handle": "@gregisenberg",
-      "name": "GREG ISENBERG",
-      "views": 86466,
-      "total_views": 86466,
-      "hit": true,
-      "is_you": false
-    },
-    {
-      "handle": "@tdinh_me",
-      "name": "Tony Dinh",
-      "views": 10414,
-      "total_views": 20403,
-      "hit": true,
-      "is_you": false
-    },
-    {
-      "handle": "@arvidkahl",
-      "name": "Arvid Kahl",
-      "views": 7590,
-      "total_views": 7590,
+      "views": 664278,
+      "total_views": 1188126,
       "hit": true,
       "is_you": false
     },
     {
       "handle": "@dvassallo",
       "name": "Daniel Vassallo",
-      "views": 5712,
-      "total_views": 5712,
+      "views": 7793,
+      "total_views": 13854,
       "hit": true,
+      "is_you": false
+    },
+    {
+      "handle": "@arvidkahl",
+      "name": "Arvid Kahl",
+      "views": 6072,
+      "total_views": 20483,
+      "hit": true,
+      "is_you": false
+    },
+    {
+      "handle": "@gregisenberg",
+      "name": "GREG ISENBERG",
+      "views": 0,
+      "total_views": 0,
+      "hit": false,
+      "is_you": false
+    },
+    {
+      "handle": "@tdinh_me",
+      "name": "Tony Dinh",
+      "views": 0,
+      "total_views": 0,
+      "hit": false,
+      "is_you": false
+    },
+    {
+      "handle": "@thepatwalls",
+      "name": "Pat Walls",
+      "views": 0,
+      "total_views": 0,
+      "hit": false,
       "is_you": false
     },
     {
@@ -192,22 +271,14 @@
       "total_views": 0,
       "hit": false,
       "is_you": true
-    },
-    {
-      "handle": "@thepatwalls",
-      "name": "Pat Walls",
-      "views": 0,
-      "total_views": 0,
-      "hit": false,
-      "is_you": false
     }
   ],
   "you_rank": {
     "handle": "@nicholasgee",
     "best_views": 0,
     "total_views": 0,
-    "rank_among_watchlist": 6,
-    "best_url": "https://x.com/nicholasgee/status/2115197443738571147"
+    "rank_among_watchlist": 7,
+    "best_url": "https://x.com/nicholasgee/status/2115560076585091240"
   },
   "board_features": {
     "count_up": true,
